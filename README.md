@@ -68,8 +68,8 @@ This project is an Exploratory Data Analysis (EDA) aimed at identifying and unde
 
 📁 Indian-Education-System-Analysis/
 │
-├── 🧹 EDA cleaning.ipynb               # Notebook for data cleaning and preprocessing
-├── 📊 EDA Project.ipynb     # EDA & visualization of all factors (suicides, scams, policies)
+├── 🧹 Data cleaning.ipynb               # Notebook for data cleaning and preprocessing
+├── 📊 Data visualization.ipynb     # EDA & visualization of all factors (suicides, scams, policies)
 ├── 📄 education_system_project_ppt.pptx # Final project presentation
 
 📊 Dataset
