@@ -71,9 +71,14 @@ This project is an Exploratory Data Analysis (EDA) aimed at identifying and unde
 ├── 🧹 EDA cleaning.ipynb               # Notebook for data cleaning and preprocessing
 ├── 📊 EDA Project.ipynb     # EDA & visualization of all factors (suicides, scams, policies)
 ├── 📄 education_system_project_ppt.pptx # Final project presentation
-├── 🧾 data/
-│   ├── suicide_data.xlsx                # NCRB suicide data by education
-│   ├── foreign_education_data.xlsx     # Policies and rankings of top countries
-│   ├── education_scams_operational.xlsx # Scams and operational failures dataset
+
+📊 Dataset
+File: indian_education_system_data.xlsx
+Description: This Excel file contains all core datasets used in the project:
+📌 Suicidal Rates – State-wise, gender-wise, and education-level data (NCRB-based)
+⚠️ Operational Failures & Scams – Notable incidents affecting Indian education
+🌍 Top 10 Countries – Education policy benchmarks and PISA score references
+📉 Kerala & Tamil Nadu Trend – Pre/post policy implementation suicide rate data
+📁 Located in the /data folder for reproducibility and reference.
 
 
