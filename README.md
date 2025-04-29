@@ -1,12 +1,12 @@
-# 📚 Indian Education System: Analysis, Issues & Policy Recommendations
+#  Indian Education System: Analysis, Issues & Policy Recommendations
 
-## 📌 Overview
+##  Overview
 
 This project is an Exploratory Data Analysis (EDA) aimed at identifying and understanding the core factors contributing to the challenges in the Indian education system — including rising student suicide rates, operational inefficiencies, and scams. The project also compares India's situation with top-performing global education systems and proposes actionable policy recommendations based on successful international models.
 
 ---
 
-## 🧠 Objectives
+##  Objectives
 
 - Analyze student suicide rates linked to academic pressure
 - Identify major operational failures and educational scams
@@ -16,7 +16,7 @@ This project is an Exploratory Data Analysis (EDA) aimed at identifying and unde
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **Python**
 - **Pandas**
@@ -28,7 +28,7 @@ This project is an Exploratory Data Analysis (EDA) aimed at identifying and unde
 
 ---
 
-## 📊 Datasets Used
+##  Datasets Used
 
 - NCRB (National Crime Records Bureau) - Student Suicide Statistics  
 - News Reports & Government Sources - Education Scams and Failures  
@@ -37,7 +37,7 @@ This project is an Exploratory Data Analysis (EDA) aimed at identifying and unde
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 - High correlation between academic pressure and student suicides
 - Operational gaps and recurring scams weaken public trust
@@ -46,7 +46,7 @@ This project is an Exploratory Data Analysis (EDA) aimed at identifying and unde
 
 ---
 
-## 🌍 Policy Inspiration from Global Systems
+##  Policy Inspiration from Global Systems
 
 - **Singapore:** “Teach Less, Learn More” initiative, bilingual policy, critical thinking focus
 - **Finland:** No standardized testing, high teacher autonomy, no homework in early grades
@@ -64,21 +64,21 @@ This project is an Exploratory Data Analysis (EDA) aimed at identifying and unde
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
-📁 Indian-Education-System-Analysis/
+ Indian-Education-System-Analysis/
 │
-├── 🧹 Data cleaning.ipynb               # Notebook for data cleaning and preprocessing
-├── 📊 Data visualization.ipynb     # EDA & visualization of all factors (suicides, scams, policies)
+├──  Data cleaning.ipynb               # Notebook for data cleaning and preprocessing
+├──  Data visualization.ipynb     # EDA & visualization of all factors (suicides, scams, policies)
 ├── 📄 education_system_project_ppt.pptx # Final project presentation
 
 📊 Dataset
 File: indian_education_system_data.xlsx
 Description: This Excel file contains all core datasets used in the project:
-📌 Suicidal Rates – State-wise, gender-wise, and education-level data (NCRB-based)
-⚠️ Operational Failures & Scams – Notable incidents affecting Indian education
-🌍 Top 10 Countries – Education policy benchmarks and PISA score references
-📉 Kerala & Tamil Nadu Trend – Pre/post policy implementation suicide rate data
-📁 Located in the /data folder for reproducibility and reference.
+ Suicidal Rates – State-wise, gender-wise, and education-level data (NCRB-based)
+ Operational Failures & Scams – Notable incidents affecting Indian education
+ Top 10 Countries – Education policy benchmarks and PISA score references
+ Kerala & Tamil Nadu Trend – Pre/post policy implementation suicide rate data
+ Located in the /data folder for reproducibility and reference.
 
 
