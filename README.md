@@ -72,7 +72,7 @@ This project is an Exploratory Data Analysis (EDA) aimed at identifying and unde
 ├──  Data visualization.ipynb     # EDA & visualization of all factors (suicides, scams, policies)
 ├── 📄 education_system_project_ppt.pptx # Final project presentation
 
-📊 Dataset
+Dataset
 File: indian_education_system_data.xlsx
 Description: This Excel file contains all core datasets used in the project:
  Suicidal Rates – State-wise, gender-wise, and education-level data (NCRB-based)
